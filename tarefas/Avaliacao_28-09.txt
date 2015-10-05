@@ -1,0 +1,9 @@
+Tarefa do dia 28/09
+
+# Criar página em HTML (ver IMDB)
+# Criar repositório Git
+# Criar o primeiro commit com os arquivos iniciais
+# Fazer o deploy do código no GITHUB
+# Adicionar as pastas img/ e css/ no projeto e inserir um arquivo .gitkeep em cada pasta
+# Criar um novo commit
+# Fazer o deploy do código no Github

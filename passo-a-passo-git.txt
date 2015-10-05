@@ -1,0 +1,35 @@
+Passo a Passo do GIT:
+
+## Configuração do GIT
+Passo 0: Configurar o Git
+    - git config --global user.name "Tiago Link"
+    - git config --global user.email falecom@tiago.link
+    - git config --global color.ui true
+
+# é executado apenas uma vez na máquina
+
+Passo 1: Iniciar o Git, criando um repositório
+    - git init
+    
+# é executado apenas uma vez no projeto
+
+
+## Comandos Básicos
+Passo 2: Adicionar os arquivos no INDEX
+    - git add .
+    
+Passo 3: Criar a primeira versão / commit
+    - git commit -m "primeira versão"
+    
+Passo 4: Ver o STATUS
+    - git status
+    
+Passo 5: Ver o Log
+    - git log
+
+-----
+## Comandos Avançados
+
+Passo 6: Fazer deploy do código em repositório remoto
+    - git push origin master
+
