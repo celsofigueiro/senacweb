@@ -1,0 +1,31 @@
+# cabeçalho {/* borda */
+    border: 1px solid #000; /*brda */
+    border-radius: 5px; 
+    padding: 10px; /* espaço interno */
+}
+    float: left; /* flutuar para esquerda*/
+    width: 100; 
+}
+
+.logo{
+    
+    float: left;
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top;-top: 15px;
+}
+
+
+
+h1{
+    
+    color:red;
+       
+}
+
+li{
+    
+    list-style:none;
+    
+    display: inline-block;
+}   margin-right: 5px
